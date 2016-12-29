@@ -33,7 +33,7 @@ SECRET_KEY = 'vq@v53h0h@@++22_%p5rxt@&m_4++c5p3b$3p^*5#!3g9+d800'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['khatio.herokuapp.com']
 
 
 # Application definition
